@@ -10,4 +10,5 @@ class GamesController < ApplicationController
       "Sorry but #{params[:word]} cannot be build out of #{@letters}"
     end
   end
+  # Still struglling with the logic of this one...
 end
